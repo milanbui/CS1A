@@ -1,0 +1,4 @@
+The first number is 5
+The second number is 10
+The third number is -12.6
+The average is 0.8
