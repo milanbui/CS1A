@@ -1,2 +1,6 @@
 # CS1A
-Assignments for CS 1A Summer 2018
+Assignments  
+  
+Class: Intro to Computer Science in C++ I  
+Instructor: Eaton  
+Semester: Summer 2018
