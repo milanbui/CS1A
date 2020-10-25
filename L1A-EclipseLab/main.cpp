@@ -1,6 +1,5 @@
 /*******************************************************
  * AUTHOR		: Milan Bui
- * STUDENT ID	: 1129567
  * LAB #1A		: Eclipse Lab
  * CLASS		: CS 1A
  * SECTION		: MTWTH 10:00AM - 1:35PM
